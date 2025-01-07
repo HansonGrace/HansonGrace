@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
 <h3 align="center">Studying Computer Science at West Virginia University, graduating May 2027</h3>
 
-<h3 align="left">- 📫 How to reach me:
- HansonGrace2004@gmail.com</h3>
+<h3 align="left">- 📫 How to reach me:</h3>
+ HansonGrace2004@gmail.com
 
 <h3 align="left">- ❓About me:</h3>
   Proficient in Java through coursework at WVU, with a special interest in backend development, including devops. Currently learning C# with an emphasis on web development and Powershell Scripting with an emphasis on system automation. Seeking out internship and 
