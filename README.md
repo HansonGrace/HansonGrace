@@ -5,8 +5,7 @@
  HansonGrace2004@gmail.com
 
 <h3 align="left">- ❓About me:</h3>
-  Proficient in Java through coursework at WVU, with a special interest in backend development, including devops. Currently learning C# with an emphasis on web development and Powershell Scripting with an emphasis on system automation. Knowledgeable with 3D modeling and texturing in Blender.  Actively seeking out internship and connection opportunities.
-
+  Proficient in Java through coursework at WVU, with a special interest in backend development, including devops. Currently learning C# with an emphasis on web development and Powershell Scripting with an emphasis on system automation. Knowledgeable with 3D modeling and texturing in Blender.  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
